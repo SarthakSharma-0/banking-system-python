@@ -1,4 +1,4 @@
-#Banking Management System in Python
+# Banking Management System in Python
 
 A command-line banking system built in Python as a Class 12 Computer Science project. It simulates basic bank operations, and all data is saved to a file so it stays after the program closes.
 
